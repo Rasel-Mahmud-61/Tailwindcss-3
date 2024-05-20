@@ -1,9 +1,9 @@
-#   Tailwind CSS  
+#  👉 Tailwind CSS  
 
       
 
 
-# topics   
+#  ✍️ topics   
 
 <ul>
   <li >Utilities-First Approach  </li>
